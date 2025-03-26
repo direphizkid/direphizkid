@@ -1,8 +1,8 @@
-Hello Im direphizkid
-My name is Kirill 
-I was 15 y.o software engineer from Moscow
+# Information About Me
+My name is Kirill, I am 15 years old, 
+I am from Moscow, I have been programming in C++ for about 3 years.
+During this time I have gained a lot of experience and I think that I know C++ quite well
 
-<!---
-direphizkid/direphizkid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Languages 
+C++
+C
