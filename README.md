@@ -5,6 +5,6 @@ During this time I have gained a lot of experience and I think that I know C++ q
 
 ## Languages 
 C++
-C
+
 
 
